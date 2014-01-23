@@ -11,16 +11,17 @@
     <h>人称/物主/反身代词</h>
     <r>1</r>
     <x>
-      <html>
-<pre>I      we        you      you        he      she     it     they
+<v>I      we        you      you        he      she     it     they
 me     us        you      you        him     her     it     them
 my     our       your     your       his     her     its    their
 mine   ours      yours    yours      his     hers    its    theirs
-myself ourselves yourself yourselves himself herself itself theirselves</pre>
-      </html>
+myself ourselves yourself yourselves himself herself itself theirselves</v>
+      <qdiv>
       <p><q><t>___ is a little diffcult for me to climb up the tree.= I find ___ difficult to climb up the tree.</t><k>It,it</k></q></p>
       <p><q><t>夏天经常下雨。____________</t><k>It often rains in summer.</k></q></p>
       <p><q><t>His CD is better than ___/___ ___.(我的)</t><k>mine, my CD</k></q></p>
+      </qdiv>
+      <qdiv>
       <z>
 	<i><x><q><t>玩得高兴 ___</t><k>enjoy oneself</k></q></x></i>
 	<i><x><q><t>单独地 ___=___</t><k>by oneself, on one's own</k></q></x></i>
@@ -30,6 +31,7 @@ myself ourselves yourself yourselves himself herself itself theirselves</pre>
 	<i><x><q><t>心里想 ___</t><k>say to oneself</k></q></x></i>
 	<!--<i><x><q><t>别拘束 ___</t><k>make oneself at home</k></q></x></i>-->
       </z>
+      </qdiv>
     </x>
     </s>
     <s>
@@ -43,7 +45,7 @@ myself ourselves yourself yourselves himself herself itself theirselves</pre>
     <x>
       <p>肯定性: both, all, many, much, one, other, each, another, either, a few, a little, some-, any-, every-</p>
       <p>否定性: no, neither, none, nobody, nothing, few, little</p>
-      <e>
+      <qdiv><e>
       <i><x><q><t>Would you like ___ coffee?</t><k>some</k></q></x></i>
       <i><x><q><t>She says ___ but does ___.(她说得少但做得多。)</t><k>little, much</k></q></x></i>
       <i><x><q><t>Everything ___(be) ready.</t><k>is</k></q></x></i>
@@ -56,7 +58,7 @@ myself ourselves yourself yourselves himself herself itself theirselves</pre>
       <i><x><q><t>I would like to have more milk, but there is ___ left.(none/nothing/no one/a little)</t><k>none</k></q></x></i>
       <i><x><q><t>-- What is in the cup? -- ___.(None/Nothing/No one/A little)</t><k>Nothing</k></q></x></i>
       <i><x><q><t>I agree of most of what you said, but I don't agree of ___.(Anything/Everything/something/nothing)</t><k>Everything</k></q></x></i>
-      </e>
+      </e></qdiv>
     </x>
     </s>
     </x>

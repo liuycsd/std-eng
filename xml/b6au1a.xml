@@ -60,10 +60,12 @@
       <i>
         <t>n.[u]</t>
 	<desp><x>
+	  <qdiv>
 	  <z>
 	  <i><x><q><t>A friend in ___ is a friend indeed.</t><x><e><i><t>need</t></i><i><t>needs</t></i><i><t>needing</t></i><i><t>needed</t></i></e></x><k>1</k></q></x></i>
 	  <i><x><q><t>The flowers need ___(water).</t><k>watering/to be watered</k></q></x></i>
 	  </z>
+	  </qdiv>
 	</x></desp>
       </i>
       </d>
@@ -82,10 +84,12 @@
 	<i><t>either 否定句句末，前加逗号</t></i>
 	<i><t>as well 与too位置相同，前不加逗号</t></i>
         </z>
+	<qdiv>
 	<z>
 	<i><x><q><t>--He enjoyed the trip. --I enjoyed it, ___. = I ___ enjoyed it. = I enjoyed it ___.</t><k>too,also,as well</k></q></x></i>
 	<i><x><q><t>--He didn't enjoy the trip. -- I didn't enjoy it, __.(=___/___ did I.)</t><k>either(,Neither,Nor)</k></q></x></i>
 	</z>
+	</qdiv>
       </x>
       </i>
       </e>

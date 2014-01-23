@@ -13,14 +13,14 @@
     <x>
       <ss><h>Quiz</h><r>quiz</r>
       <x>
-        <e>
+        <qdiv><e>
 	<i><x><q><t>约翰喜欢打篮球吗？</t><k>Does John like playing basketball?</k></q></x></i>
 	<i><x><q><t>The little girl will give the flowers to the hero when he ___(appear).</t><k>appears</k></q></x></i>
 	<i><x><q><t>知识就是力量。</t><k>Knowledge is power.</k></q></x></i>
 	<i><x><q><t>She won't go to bed until you ___(come).</t><k>come</k></q></x></i>
 	<i><x><q><t>What time ___ the performance ___(start)?演出什么时候开始？</t><k>does start</k></q></x></i>
 	<i><x><q><t>The next train ___(leave) at 9:00 p.m.</t><k>leaves</k></q></x></i>
-	</e>
+	</e></qdiv>
       </x>
       </ss>
     </x>

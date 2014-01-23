@@ -5,11 +5,13 @@
   <part>
     <h>单元复习</h>
     <include>b6au1a.xml</include>
+    <include>b6bu15.xml</include>
     <include>b8au34.xml</include>
   </part>
   <part>
     <h>语法</h>
     <include>gra-sts.xml</include>
     <include>gra-pron.xml</include>
+    <include>gra-tense.xml</include>
   </part>
 </document>
