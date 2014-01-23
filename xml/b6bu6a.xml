@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+  <h>六年级下册 Units 6-10</h>
+  <x>
+  <c>
+  <h>六年级下册 Units 6-10</h>
+  <r>b6bu6a.xml</r>
+  <x>
+    <s>
+    <h>词汇</h>
+    <r>wrd</r>
+    <x>
+      <qdiv><e>
+      <i><x><q><t>来自</t><k>come from / be from</k></q></x></i>
+      <i><x><q><t>在……对面</t><k>across from</k></q></x></i>
+      <i><x><q><t>散步</t><k>take a walk / go for a walk</k></q></x></i>
+      <i><x><q><t>玩得开心</t><k>have fun / …</k></q></x></i>
+      <i><x><q><t>有点，有几分</t><k>kind of / a little</k></q></x></i>
+      <i><x><q><t>去……的路</t><k>the way to</k></q></x></i>
+      <i><x><q><t>通过，穿过</t><k>go through</k></q></x></i>
+      <i><x><q><t>努力工作，认真学习</t><k>work hard</k></q></x></i>
+      <i><x><q><t>为了</t><k>in order to</k></q></x></i>
+      <i><x><q><t>有时</t><k>sometimes / at times</k></q></x></i>
+      </e></qdiv>
+      <qdiv><e>
+      <i><x><q><t>I could see her ___(通过) the window.</t><k>through</k></q></x></i>
+      <i><x><q><t>Walk ___ the bridge and turn left.(across/through/over)</t><k>across</k></q></x></i>
+      <i><x><q><t>The dog jumped ___ the fence and ran away.(across/through/over)</t><k>over</k></q></x></i>
+      <i><x><q><t>Have a look before ______(穿过) the road.</t><k>going across/crossing</k></q></x></i>
+      <i><x><q><t>I saw Ann ___(dressed/put on/wearing/wear) a green dress at the school meeting. I think she looks better ___(in/waer/put on) red.</t><k>wearing, in</k></q></x></i>
+      </e></qdiv>
+    </x>
+    </s>
+    <s>
+    <h>句型</h>
+    <r>sts</r>
+    <x>
+      <ss>
+      <h>问路</h>
+      <r>way</r>
+      <x>
+        <qdiv>
+	<p><q><t>请问，附近有旅馆吗？</t><k>Excuse me. Is there a hotel in the neighborhood?</k></q></p>
+	<p><q><t>去火车站怎么走？</t><k>How can I get to the train station? / Could you tell me the way to the train station? / Can you tell me how to get to the train station?</k></q></p>
+	<p><q><t>向前直走，然后左转。</t><k>Just go straight and turn left.</k></q></p>
+	<p><q><t>离这儿大约1000米。</t><k>It's about 1000 meters from here.</k></q></p>
+	<p><q><t>向前走，在右侧大约20英里。</t><k>It's about 20 miles along on the right.</k></q></p>
+	<p><q><t>在第二个路口左拐。</t><k>Turn left at the second crossing. / Take the second crossing on the left.</k></q></p>
+	</qdiv>
+      </x>
+      </ss>
+      <ss>
+      <h>职业</h>
+      <r>job</r>
+      <x>
+        <qdiv>
+	<p><q><t>--她是干什么工作的？</t><k>What does she do? / What's her job? / What is she?</k></q></p>
+	<p><q><t>--她是老师。</t><k>She is a teacher. / She works as a teacher.</k></q></p>
+	</qdiv>
+      </x>
+      </ss>
+      <ss>
+      <h>There be</h>
+      <r>tb</r>
+      <x>
+        <qdiv><e>
+	<i><x><q><t>There ___ an orange and some apples one the table.</t><k>is</k></q></x></i>
+	<i><x><q><t>There will ___ some great music shows on TV tomorrow.</t><k>be</k></q></x></i>
+	<i><x><q><t>There are some old man ___(do) sports in the park.</t><k>doing</k></q></x></i>
+	<i><t>There are ( (three)[1] bottles of milk )[2] in the box.</t><x><z><i><x><q><t>对[1]提问</t><k>How many bottles of milk are there in the box?</k></q></x></i><i><x><q><t>对[2]提问</t><k>What are there in the box?</k></q></x></i></z></x></i>
+	<i><x><q><t>There ___(come) a bus.</t><k>comes</k></q></x></i>
+	</e></qdiv>
+      </x>
+      </ss>
+    </x>
+    </s>
+  </x>
+  </c>
+  </x>
+</document>
