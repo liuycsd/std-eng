@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+  <h>六年级上册 Units 1-10</h>
+  <x>
+  <c>
+  <h>六年级上册 Units 1-10</h>
+  <r>b6au1a.xml</r>
+  <x>
+    <s>
+    <h>词汇</h>
+    <r>wrd</r>
+    <x>
+      <e>
+      <i>
+      <t>call</t>
+      <x>
+        <e>
+	<i><t>v./n.打电话(=ring/phone/telephone) ~ sb. at NUMBER</t></i>
+	<i><t>v. 称呼</t></i>
+	<i><t>v. 拜访 ~ on sb.</t></i>
+	<i><t>v. 命名(=name) ~ sb + n.</t></i>
+	</e>
+      </x>
+      </i>
+      <i><t> excuse me / sorry</t></i>
+      <i><x>
+        <z>
+	<i><t>take(...to...) 拿去</t></i>
+	<i><t>bring(...to...) 拿来</t></i>
+	<i><t>carry 提、拿 不强调方向，有负重之意</t></i>
+	<i><t>fetch(/get) 强调往返</t></i>
+	</z>
+      </x></i>
+      <i>
+      <t>need</t>
+      <x>
+      <d>
+      <i>
+        <t>v.</t>
+	<desp><x>
+	  <e>
+	  <i><t>sb. + ~ + n./pron. 某人需要某物</t></i>
+	  <i><t>sb. + ~ to do sth. 某人需要做某事</t></i>
+	  <i><t>sth + ~ + doing/to be done 某事需要被做</t></i>
+	  </e>
+	</x></desp>
+      </i>
+      <i>
+        <t>v.modal</t>
+	<desp><x>
+	  <e>
+	  <i><t>常用于否定/疑问句</t></i>
+	  <i><t>后接动词原形</t></i>
+	  <i><t>无人称、时态和数的变化</t></i>
+	  <i><t>作为Mustn't ...?的否定回答(=...don't have to)</t></i>
+	  </e>
+	</x></desp>
+      </i>
+      <i>
+        <t>n.[u]</t>
+	<desp><x>
+	  <z>
+	  <i><x><q><t>A friend in ___ is a friend indeed.</t><x><e><i><t>need</t></i><i><t>needs</t></i><i><t>needing</t></i><i><t>needed</t></i></e></x><k>1</k></q></x></i>
+	  <i><x><q><t>The flowers need ___(water).</t><k>watering/to be watered</k></q></x></i>
+	  </z>
+	</x></desp>
+      </i>
+      </d>
+      </x>
+      </i>
+      <i>
+      <t>sound</t>
+      <x><z><i><t>v.link ~ + adj./ ~ like + adj./pron.</t></i><i><t>n.代指自然界各种声音</t></i></z></x>
+      </i>
+      <i>
+      <t>也</t>
+      <x>
+        <z>
+        <i><t>also 一般用于肯定/疑问句 实义动词前 系动词、助动词或情态动词后</t></i>
+	<i><t>too 一般用于肯定句句末，也可用于疑问句；前加逗号</t></i>
+	<i><t>either 否定句句末，前加逗号</t></i>
+	<i><t>as well 与too位置相同，前不加逗号</t></i>
+        </z>
+	<z>
+	<i><x><q><t>--He enjoyed the trip. --I enjoyed it, ___. = I ___ enjoyed it. = I enjoyed it ___.</t><k>too,also,as well</k></q></x></i>
+	<i><x><q><t>--He didn't enjoy the trip. -- I didn't enjoy it, __.(=___/___ did I.)</t><k>either(,Neither,Nor)</k></q></x></i>
+	</z>
+      </x>
+      </i>
+      </e>
+    </x>
+    </s>
+    <s>
+    <h>语法</h>
+    <r>gra</r>
+    <x>
+    <e>
+    <i><t>冠词</t></i>
+    <i><t>数词</t></i>
+    <i><t>名词的数与所有格</t></i>
+    <i><x><ahref><h>代词</h><r>gra-pron.xml</r></ahref></x></i>
+    </e>
+    </x>
+    </s>
+  </x>
+  </c>
+  </x>
+</document>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+  <h>代词</h>
+  <x>
+  <c>
+    <r>gra-pron.xml</r>
+    <h>代词</h>
+    <x>
+    <s>
+    <h>人称/物主/反身代词</h>
+    <r>1</r>
+    <x>
+      <html>
+<pre>I      we        you      you        he      she     it     they
+me     us        you      you        him     her     it     them
+my     our       your     your       his     her     its    their
+mine   ours      yours    yours      his     hers    its    theirs
+myself ourselves yourself yourselves himself herself itself theirselves</pre>
+      </html>
+      <p><q><t>___ is a little diffcult for me to climb up the tree.= I find ___ difficult to climb up the tree.</t><k>It,it</k></q></p>
+      <p><q><t>夏天经常下雨。____________</t><k>It often rains in summer.</k></q></p>
+      <p><q><t>His CD is better than ___/___ ___.(我的)</t><k>mine, my CD</k></q></p>
+      <z>
+	<i><x><q><t>玩得高兴 ___</t><k>enjoy oneself</k></q></x></i>
+	<i><x><q><t>单独地 ___=___</t><k>by oneself, on one's own</k></q></x></i>
+	<i><x><q><t>自学 ___=___</t><k>teach oneself, learn by oneself</k></q></x></i>
+	<i><x><q><t>随便吃…… ___</t><k>help yourself/yourselves to</k></q></x></i>
+	<i><x><q><t>苏醒，恢复意识 ___</t><k>come to oneself</k></q></x></i>
+	<i><x><q><t>心里想 ___</t><k>say to oneself</k></q></x></i>
+	<!--<i><x><q><t>别拘束 ___</t><k>make oneself at home</k></q></x></i>-->
+      </z>
+    </x>
+    </s>
+    <s>
+    <h>指示代词</h>
+    <r>2</r>
+    <x><p>this/that/these/those</p></x>
+    </s>
+    <s>
+    <h>不定代词</h>
+    <r>3</r>
+    <x>
+      <p>肯定性: both, all, many, much, one, other, each, another, either, a few, a little, some-, any-, every-</p>
+      <p>否定性: no, neither, none, nobody, nothing, few, little</p>
+      <e>
+      <i><x><q><t>Would you like ___ coffee?</t><k>some</k></q></x></i>
+      <i><x><q><t>She says ___ but does ___.(她说得少但做得多。)</t><k>little, much</k></q></x></i>
+      <i><x><q><t>Everything ___(be) ready.</t><k>is</k></q></x></i>
+      <i><x><q><t>Is there ___ ___(新鲜事) in the newspaper?</t><k>anything new</k></q></x></i>
+      <i><x><q><t>Either Frank or Bob ___(like) playing basketball.</t><k>likes</k></q></x></i>
+      <i><x><q><t>我们应该天天做运动。We should do exercise ______(everyday/every day).</t><k>every day</k></q></x></i>
+      <i><x><q><t>All ___ present(到场、出席) and all ___ going well.(be)</t><k>are, is</k></q></x></i>
+      <i><x><q><t>-- How do you find your new classmates? -- Most of them are kind, but ___is so good to me as Bruce.(none/no one/every one/some one)</t><k>none</k></q></x></i>
+      <i><x><q><t>We need ___ ___ pens.(我们还需要10支笔。)</t><k>another ten / ten more</k></q></x></i>
+      <i><x><q><t>I would like to have more milk, but there is ___ left.(none/nothing/no one/a little)</t><k>none</k></q></x></i>
+      <i><x><q><t>-- What is in the cup? -- ___.(None/Nothing/No one/A little)</t><k>Nothing</k></q></x></i>
+      <i><x><q><t>I agree of most of what you said, but I don't agree of ___.(Anything/Everything/something/nothing)</t><k>Everything</k></q></x></i>
+      </e>
+    </x>
+    </s>
+    </x>
+  </c>
+  </x>
+</document>

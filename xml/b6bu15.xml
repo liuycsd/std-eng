@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+  <h>六年级下册 Units 1-5</h>
+  <x>
+  <c>
+  <h>六年级下册 Units 1-5</h>
+  <r>b6bu15.xml</r>
+  <x>
+    <s>
+    <h>词汇</h>
+    <r>wrd</r>
+    <x>
+      <e>
+      <i><x><q><t>在周末</t><k>on weekends/at the weekend</k></q></x></i>
+      <i><x><q><t>起床</t><k>get up</k></q></x></i>
+      <i><x><q><t>演讲比赛</t><k>speech contest</k></q></x></i>
+      <i><x><q><t>淋浴</t><k>take/have a shower</k></q></x></i>
+      <i><x><q><t>上床睡觉</t><k>go to bed</k></q></x></i>
+      <i><x><q><t>回家</t><k>go home</k></q></x></i>
+      <i><x><q><t>科目</t><k>subject</k></q></x></i>
+      <i><x><q><t>语文、数学、英语、物理、化学、生物、政治、历史、地理、体育、信息技术、音乐、美术 </t><k>Chinese, math(maths, mathematics), English, physics, chemistry, biology, politics, history, geography, P.E.(physical education), infomation technology, music, art</k></q></x></i>
+      <i><x><q><t>春节、端午节、中秋节、国庆节、劳动节、圣诞节、情人节</t><k>Spring Festival, Dragon Boat Festival, Mid-Autumn Festival, National Day, Labor Day, Christmas Day, Valentine's Day</k></q></x></i>
+      </e>
+      <e>
+      <i><x><q><t>How long has your sister ___ the dancing club?</t><x><e><i><t>joined</t></i><i><t>been in</t></i><i><t>attended</t></i><i><t>joined in</t></i></e></x><k>2</k></q></x></i>
+      <i><x><q><t>My brother was busy ___ his homework.</t><x><e><i><t>do</t></i><i><t>to do</t></i><i><t>doing</t></i><i><t>does</t></i></e></x><k>3</k></q></x></i>
+      <i><x><q><t>Sally has no brothers ___ sisters. She is the only kid in her family.(and/but/or/so)</t><k>or</k></q></x></i>
+      <i><x><q><t>The train is supposed to get ___ next stain in 15 minutes(on/off/to/up)</t><k>to</k></q></x></i>
+      <i><x><q><t>Our math teacher is very strict ___ us ___ our homework.(in/with)</t><k>with, in</k></q></x></i>
+      </e>
+    </x>
+    </s>
+    <s>
+    <h>句型</h>
+    <r>sen</r>
+    <x>
+      <e>
+      <i><t>翻译</t><x><e>
+        <i><x><q><t>今天星期几？</t><k>What day is it today?</k></q></x></i>
+	<i><x><q><t>今天几月几日？</t><k>What's the date today?</k></q></x></i>
+	<i><x><q><t>现在几点了？</t><k>What time is it now?/what's the time now?</k></q></x></i>
+	<i><x><q><t>你生日是什么时候？</t><k>When is you birthday?</k></q></x></i>
+	<i><x><q><t>你什么时候去上学？</t><k>What time do you go to school?</k></q></x></i>
+      </e></x></i>
+      <i><t>感叹句</t><x>
+        <p><q><t>多么聪明的男孩！</t><k>What a clever boy ( he is )!/How clever the boy is!/How clever a boy he is!</k></q></p>
+      </x></i>
+      <i><x><q><t>The sports meeting is put off ______ last night.(由于大雨)</t><k>because it rained heavily/because of the heavy rain</k></q></x></i>
+      </e>
+    </x>
+    </s>
+    <s>
+    <h>语法</h>
+    <r>gra</r>
+    <x>
+      <e>
+      <i><t>数词</t></i>
+      <i><x><ahref><h>一般现在时</h><r>gra-tense.xml#sppr</r></ahref></x></i>
+      </e>
+    </x>
+    </s>
+  </x>
+  </c>
+  </x>
+</document>
