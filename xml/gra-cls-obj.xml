@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+  <h>宾语从句</h>
+  <x>
+  <c>
+    <r>gra-cls-obj.xml</r>
+    <h>宾语从句</h>
+    <x>
+    <s>
+    <h>Quiz</h>
+    <r>quiz</r>
+    <x>
+      <qdiv><e>
+      <i><x><q><t>Do you know ___ the MP4 yesterday?</t><x><e><i><t>how muchdid he pay for</t></i><i><t>how much he paid for</t></i><i><t>he paid for how much</t></i><i><t>he paid how much for</t></i></e></x><k>2</k></q></x></i>
+      <i><x><q><t>他说他喜欢听广播。</t><k>He said that he liked listening to the radio.</k></q></x></i>
+      <i><x><q><t>请问你奶奶身体康复了吗？Could you tell me ______?</t><k>if/whether your grandmother is well/in good health now</k></q></x></i>
+      <i><x><q><t>Tonny do you know if Frank ___(go) to the zoom this sunday if it ___(be) fine?</t><k>will go, is</k></q></x></i>
+      </e></qdiv>
+    </x>
+    </s>
+    </x>
+    </c>
+  </x>
+</document>

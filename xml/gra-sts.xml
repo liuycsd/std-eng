@@ -78,7 +78,7 @@
         <t>复合句</t>
         <x>
         <d>
-          <i><t>名词性从句</t><desp><t>主、宾、表、同位语从句</t></desp></i>
+          <i><t>名词性从句</t><desp><x>主、<ahref><h>宾</h><r>gra-cls-obj.xml</r></ahref>、表、同位语从句</x></desp></i>
           <i><t>定语从句</t><desp><t></t></desp></i>
           <i><t>状语从句</t><desp><t>时间、地点、原因、条件、方式、让步、目的、结果</t></desp></i>
         </d>

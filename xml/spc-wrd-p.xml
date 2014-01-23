@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+  <h>综合填空</h>
+  <x>
+  <c>
+  <h>综合填空</h>
+  <r>spc-wrd-p.xml</r>
+  <x>
+    <s>
+    <h>Quiz</h>
+    <r>quiz</r>
+    <x>
+      <p>Note: The keys provided is only one of the possible versions.</p>
+      <e>
+      <i><x><qdiv><p>
+      Sarah is a pretty English girl with long h<span><q><k>hair</k></q></span>. She l<span><q><k>loves</k></q></span> China v<span><q><k>very</k></q></span> much. She is t<span><q><k>teaching</k></q></span> herself C<span><q><k>Chinese</k></q></span> now, b<span><q><k>because</k></q></span> she will s<span><q><k>study</k></q></span> in Peking University next year. She is often told something a<span><q><k>about</k></q></span> China . She f<span><q><k>feels</k></q></span> very pleased whenever she learns the development in C<span><q><k>China</k></q></span>. At the a<span><q><k>age</k></q></span> of 10, Sarah saw a panda in the z<span><q><k>zoo</k></q></span> from China. That was the first t<span><q><k>time</k></q></span> she got to k<span><q><k>know</k></q></span> something about China. Since then she has been interested i<span><q><k>in</k></q></span> all about China. She practices s<span><q><k>speaking</k></q></span> Chinese every day. And she keeps on w<span><q><k>watching</k></q></span> CCTV on w<span><q><k>weekends</k></q></span>. She often s<span><q><k>says</k></q></span> to herself, "I must study Chinese h<span><q><k>hard</k></q></span>."
+      </p></qdiv></x></i>
+      <!--
+      <i><x><qdiv><p>
+      <span><q><k></k></q></span>
+      </p></qdiv></x></i>
+      -->
+      </e>
+    </x>
+    </s>
+  </x>
+  </c>
+  </x>
+</document>

@@ -14,5 +14,11 @@
     <include>gra-sts.xml</include>
     <include>gra-pron.xml</include>
     <include>gra-tense.xml</include>
+    <include>gra-cls-obj.xml</include>
+  </part>
+  <part>
+    <h>专题</h>
+    <include>spc-wrd-i.xml</include>
+    <include>spc-wrd-p.xml</include>
   </part>
 </document>
