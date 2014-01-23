@@ -61,6 +61,7 @@ var getans=function(obj){
 </xsl:template>
 <xsl:template match="div"><div><xsl:apply-templates/></div></xsl:template>
 <xsl:template match="p"><p><xsl:apply-templates/></p></xsl:template>
+<xsl:template match="v"><pre><xsl:copy-of select="node()"/></pre></xsl:template>
 <!--<xsl:template match="html"><xsl:copy-of select="*"><xsl:apply-templates/></xsl:copy-of></xsl:template>-->
 <xsl:template match="html"><xsl:copy-of select="*"/></xsl:template>
 <xsl:template match="ahref"><a><xsl:attribute name="href"><xsl:value-of select="r"/></xsl:attribute><xsl:value-of select="h"/><xsl:apply-templates select="x"/></a></xsl:template>
@@ -70,5 +71,12 @@ var getans=function(obj){
 </xsl:template>
 <xsl:template match="b">
 <xsl:attribute name="key"><xsl:value-of select="k"/></xsl:attribute><xsl:value-of select="t"/><xsl:apply-templates select="x"/><div class="key" onclick="javascript:getans(this);">Answer:</div>
+</xsl:template>
+<xsl:template match="qdiv">
+<div><xsl:apply-templates/><div class="key">Keys:<ol>
+<xsl:for-each select=".//q">
+<li><xsl:value-of select="k"/></li>
+</xsl:for-each>
+</ol></div></div>
 </xsl:template>
 </xsl:stylesheet>
