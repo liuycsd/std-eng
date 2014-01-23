@@ -5,7 +5,7 @@
 <html>
 	<head>
 		<title><xsl:value-of select="h"/></title>
-		<style><![CDATA[*{background-color:#ccc;}.key{color:#800;}]]></style>
+		<style><![CDATA[*{background-color:#ccc;}.key{color:#800;}div.key{outline:#800 dashed;margin-top:10em;}]]></style>
 		<script><![CDATA[
 var getans=function(obj){
 	obj=obj.parentNode;
