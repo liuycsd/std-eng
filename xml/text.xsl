@@ -60,6 +60,7 @@ var getans=function(obj){
 	</dl>
 </xsl:template>
 <xsl:template match="div"><div><xsl:apply-templates/></div></xsl:template>
+<xsl:template match="span"><span><xsl:apply-templates/></span></xsl:template>
 <xsl:template match="p"><p><xsl:apply-templates/></p></xsl:template>
 <xsl:template match="v"><pre><xsl:copy-of select="node()"/></pre></xsl:template>
 <!--<xsl:template match="html"><xsl:copy-of select="*"><xsl:apply-templates/></xsl:copy-of></xsl:template>-->
