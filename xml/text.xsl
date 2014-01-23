@@ -8,7 +8,6 @@
 		<style><![CDATA[*{background-color:#ccc;}.key{color:#800;}div.key{outline:#800 dashed;margin-top:10em;}]]></style>
 		<script><![CDATA[
 var getans=function(obj){
-	obj=obj.parentNode;
 	var key=document.createTextNode(obj.getAttribute("key"));
 	obj.appendChild(key);
 }
@@ -68,7 +67,7 @@ var getans=function(obj){
 <xsl:template match="ahref"><a><xsl:attribute name="href"><xsl:value-of select="r"/></xsl:attribute><xsl:value-of select="h"/><xsl:apply-templates select="x"/></a></xsl:template>
 <xsl:template match="aname"><a><xsl:attribute name="name"><xsl:value-of select="r"/></xsl:attribute><xsl:value-of select="h"/><xsl:apply-templates select="x"/></a></xsl:template>
 <xsl:template match="q">
-<xsl:attribute name="key"><xsl:value-of select="k"/></xsl:attribute><xsl:value-of select="t"/><xsl:copy-of select="hbox/*"/><xsl:apply-templates select="x"/><input type="text" size="6"/><span class="key" onclick="javascript:getans(this);">Answer:</span>
+<xsl:value-of select="t"/><xsl:copy-of select="hbox/*"/><xsl:apply-templates select="x"/><input type="text" size="6"/><span class="key" onclick="javascript:getans(this);"><xsl:attribute name="key"><xsl:value-of select="k"/></xsl:attribute>Answer:</span>
 </xsl:template>
 <xsl:template match="b">
 <xsl:attribute name="key"><xsl:value-of select="k"/></xsl:attribute><xsl:value-of select="t"/><xsl:apply-templates select="x"/><div class="key" onclick="javascript:getans(this);">Answer:</div>
