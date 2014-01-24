@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+  <h>七年级上册 Units 1-5</h>
+  <x>
+  <c>
+  <h>七年级上册 Units 1-5</h>
+  <r>b7au15.xml</r>
+  <x>
+    <s>
+    <h>词汇</h>
+    <r>wrd</r>
+    <x>
+      <qdiv><e>
+      <i><x><q><t>在电话里交谈</t><k>talk on the phone</k></q></x></i>
+      <i><x><q><t>去看电影</t><k>go to the movies</k></q></x></i>
+      <i><x><q><t>等待</t><k>wait for</k></q></x></i>
+      <i><x><q><t>谈论，讨论</t><k>talk about</k></q></x></i>
+      <i><x><q><t>在度假中</t><k>on vacation</k></q></x></i>
+      <i><x><q><t>拍照</t><k>take a photo</k></q></x></i>
+      <i><x><q><t>至于</t><k>as for</k></q></x></i>
+      <i><x><q><t>对……有益</t><k>be good for</k></q></x></i>
+      <i><x><q><t>当然</t><k>of course</k></q></x></i>
+      <i><x><q><t>照顾</t><k>look after</k></q></x></i>
+      <i><x><q><t>和……一样</t><k>(be) the same as</k></q></x></i>
+      <i><x><q><t>感冒</t><k>have a cold</k></q></x></i>
+      <i><x><q><t>有压力的，紧张的</t><k>(be) stressed out</k></q></x></i>
+      <i><x><q><t>此时，现在</t><k>at the moment</k></q></x></i>
+      <i><x><q><t>努力做某事/试着做某事</t><k>try to do/doing sth.</k></q></x></i>
+      </e></qdiv>
+      <qdiv><e>
+      <i><x><q><t>Class begins. The teacher asked the students to stop ______(talk). He asked them to stop ______(have) the class.</t><k>talking, to have</k></q></x></i>
+      <i><x><q><t>谢谢你邀请我。</t><k>Thanks for inviting me. / Thanks you for your invitation.</k></q></x></i>
+      <i><x><q><t>The weatherman says that there will be ______(大风) in our city tonight.</t><k>strong wind</k></q></x></i>
+      <i><x><q><t>To my ___, the boy didn't look ___ at the ___ ending of the story.(surprise)</t><k>surprise, surprised, surprising</k></q></x></i>
+      <i><x><q><t>There are many people in the park. Some are teachers, ______ are students.(the others / the other / others / another)</t><k>others</k></q></x></i>
+      <i><x><q><t>He says that he remembers ______ the windows, but in fact he fogeot ______ them.(close)</t><k>closing, to close</k></q></x></i>
+      <i><x><q><t>这项规定旨在阻止人们在河中游泳。The rule is to ___ people ___ ___ in the river.</t><k>keep, from, swimming</k></q></x></i>
+      <i><x><q><t>--How long have you ___ the book? --For three days.(borrowed / kept / lent / bought)</t><k>kept</k></q></x></i>
+      <i><x><q><t>他完成作业才去睡觉。He ______ to sleep ______ he finished his homework.</t><k>didn't go,until / went,after</k></q></x></i>
+      <i><x><q><t>Many people ______ their jobs(担心失去工作).</t><k>worry/are worried about losing</k></q></x></i>
+      <i><x><q><t>___(A/The) number of the teachers in their school is about 200 and 1/4 of them ___(are/is) ___(woman/women) teachers.</t><k>The, are, women</k></q></x></i>
+      <i><x><q><t>Tina spent ___($200) on that red coats.</t><k>two hundred dollars</k></q></x></i>
+      <i><x><q><t>Do you know the man ___(have/has/with/to) glasses.</t><k>with</k></q></x></i>
+      </e></qdiv>
+    </x>
+    </s>
+    <s>
+    <h>句型</h>
+    <r>sts</r>
+    <x>
+      <qdiv>
+      <p><q><t>最近过得怎么样？</t><k>How's it/everything going?</k></q></p>
+      <p><q><t>北京天气怎么样？</t><k>How's the weather/What's the weather like in Beijing?</k></q></p>
+      <p><q><t>--她长什么样子？--她中等体型，留着长发。</t><k>--What does she look like?--She is medium build, and she has long hair.</k></q></p>
+      <p><q><t>你多久锻炼一次？</t><k>How often do you exercise?</k></q></p>
+      <p><q><t>虽然有时天气不好，但我们每天都按时到校。</t><k>We arrive at school on time every day, although sometimes the weather is bad.</k></q></p>
+      <p><q><t>--怎么了？--我感觉不舒服。</t><k>--What's up / wrong / the matter/trouble with you?--I'm not feeling well.</k></q></p>
+      <p><q><t>听说你不舒服我很难过。</t><k>I'm sorry to hear that you're not feeling well.</k></q></p>
+      </qdiv>
+    </x>
+    </s>
+    <s>
+    <h>语法</h>
+    <r>gra</r>
+    <x>
+      <e>
+      <i><x><ahref><h>现在进行时</h><r>gra-tense.xml#pring</r></ahref></x></i>
+      </e>
+    </x>
+    </s>
+  </x>
+  </c>
+  </x>
+</document>
