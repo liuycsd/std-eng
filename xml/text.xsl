@@ -79,4 +79,10 @@ var getans=function(obj){
 </xsl:for-each>
 </ol></div></div>
 </xsl:template>
+<xsl:template match="include">
+<xsl:call-template name="tinc"><xsl:with-param name="inc"><xsl:value-of select="."/></xsl:with-param></xsl:call-template>
+</xsl:template>
+<xsl:template name="tinc">
+<xsl:param name="inc"/><xsl:for-each select="document($inc)/document/x"><xsl:apply-templates/></xsl:for-each>
+</xsl:template>
 </xsl:stylesheet>

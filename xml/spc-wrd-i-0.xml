@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+<r>spc-wrd-i.xml</r>
+<x>
+    <s>
+    <h>Quiz</h>
+    <r>quiz</r>
+    <x>
+      <p>Note: The keys provided is only one of the possible versions.</p>
+      <e>
+      <i><x><qdiv><e>
+      <i><x><q><t>What's the time by your w___?</t><k>watch</k></q></x></i>
+      <i><x><q><t>--How do you s___ your name?---J-A-N-E.</t><k>spell</k></q></x></i>
+      <i><x><q><t>L___! That's my Chinese teacher.</t><k>Look</k></q></x></i>
+      <i><x><q><t>Can I ask you a q___, Mary?</t><k>question</k></q></x></i>
+      <i><x><q><t>--What's you phone n___?--It's 123-4567.</t><k>number</k></q></x></i>
+      <i><x><q><t>There are three k___ to the lock.</t><k>keys</k></q></x></i>
+      <i><x><q><t>Is that your book in the lost and f___ case?</t><k>found</k></q></x></i>
+      </e></qdiv></x></i>
+      <i><x><qdiv><e>
+      <i><x><q><t>My uncle's son is my c___.</t><k>cousin</k></q></x></i>
+      <i><x><q><t>From the f___ tree, we know he has two sisters.</t><k>family</k></q></x></i>
+      <i><x><q><t>Liu Xiang is a world-famous r___.</t><k>runner</k></q></x></i>
+      <i><x><q><t>To keep h___, Diana eats one apple a day.</t><k>healthy</k></q></x></i>
+      <i><x><q><t>It's a little d___ for me to cook for so many people.</t><k>difficult</k></q></x></i>
+      <i><x><q><t>Thanks for p___ games with us, Ms Wang.</t><k>playing</k></q></x></i>
+      </e></qdiv></x></i>
+      <i><x><qdiv><e>
+      <i><x><q><t>Mother's Day comes in M__.</t><k>May</k></q></x></i>
+      <i><x><q><t>Spring F___ is the most important day in China.</t><k>Festival</k></q></x></i>
+      <i><x><q><t>Students must do their h___ every day.</t><k>homework</k></q></x></i>
+      <i><x><q><t>--Can you s___ English? --Yes, I can.</t><k>speak</k></q></x></i>
+      <i><x><q><t>--Can you tell me your e-mail a___? --Yes. It's someone@example.com.</t><k>address</k></q></x></i>
+      <i><x><q><t>He usually goes to school at eight o___.</t><k>o'clock</k></q></x></i>
+      <i><x><q><t>His favorate a___ is Jackie Chan.</t><k>actor</k></q></x></i>
+      </e></qdiv></x></i>
+      <i><x><qdiv><e>
+      <i><x><q><t>I can speak two l___, Chinese and English.</t><k>languages</k></q></x></i>
+      <i><x><q><t>There's a bank b___ the post office and the supermarket.</t><k>between</k></q></x></i>
+      <i><x><q><t>For a___, I like pandas best.</t><k>anamals</k></q></x></i>
+      <i><x><q><t>My aunt works as a nurse in a local h___.</t><k>hospital</k></q></x></i>
+      <i><x><q><t>I w___ like beef and cabbage dumplings, please.</t><k>would</k></q></x></i>
+      <i><x><q><t>I'd like to o___ mutton and carrot noodles, please.</t><k>order</k></q></x></i>
+      <i><x><q><t>Everything seems to have a difficult b___.</t><k>beginning</k></q></x></i>
+      </e></qdiv></x></i>
+      </e>
+    </x>
+    </s>
+</x>
+</document>

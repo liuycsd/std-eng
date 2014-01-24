@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="text.xsl"?>
 <document>
-  <h>时态</h>
+  <h>从句</h>
   <x>
   <c>
-    <r>gra-tense.xml</r>
-    <h>时态</h>
+    <r>gra-cls.xml</r>
+    <h>从句</h>
     <x>
-      <include>gra-tense-sppr.xml</include>
+      <include>gra-cls-obj.xml</include>
     </x>
-  </c>
+    </c>
   </x>
 </document>

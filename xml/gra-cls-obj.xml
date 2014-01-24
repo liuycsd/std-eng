@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="text.xsl"?>
 <document>
-  <h>宾语从句</h>
+<r>gra-cls.xml</r>
   <x>
-  <c>
-    <r>gra-cls-obj.xml</r>
-    <h>宾语从句</h>
-    <x>
     <s>
+    <h>宾语从句</h>
+    <r>obj</r>
+    <x>
+    <ss>
     <h>Quiz</h>
     <r>quiz</r>
     <x>
@@ -18,8 +18,8 @@
       <i><x><q><t>Tonny do you know if Frank ___(go) to the zoom this sunday if it ___(be) fine?</t><k>will go, is</k></q></x></i>
       </e></qdiv>
     </x>
-    </s>
+    </ss>
     </x>
-    </c>
+    </s>
   </x>
 </document>

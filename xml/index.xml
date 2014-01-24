@@ -2,24 +2,32 @@
 <?xml-stylesheet type="text/xsl" href="index.xsl"?>
 <document>
   <h>英语复习提要</h>
+  <x>
   <part>
     <h>单元复习</h>
+    <x>
     <include>b6au1a.xml</include>
     <include>b6bu15.xml</include>
     <include>b6bu6a.xml</include>
     <include>b7au15.xml</include>
     <include>b8au34.xml</include>
+    </x>
   </part>
   <part>
     <h>语法</h>
+    <x>
     <include>gra-sts.xml</include>
     <include>gra-pron.xml</include>
     <include>gra-tense.xml</include>
-    <include>gra-cls-obj.xml</include>
+    <include>gra-cls.xml</include>
+    </x>
   </part>
   <part>
     <h>专题</h>
+    <x>
     <include>spc-wrd-i.xml</include>
     <include>spc-wrd-p.xml</include>
+    </x>
   </part>
+  </x>
 </document>
