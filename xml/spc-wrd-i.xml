@@ -8,6 +8,7 @@
   <r>spc-wrd-i.xml</r>
   <x>
     <include>spc-wrd-i-0.xml</include>
+    <include>spc-wrd-i-1.xml</include>
   </x>
       <!--
       <i><x><qdiv><e>

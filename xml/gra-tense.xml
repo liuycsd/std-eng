@@ -8,6 +8,7 @@
     <h>时态</h>
     <x>
       <include>gra-tense-sppr.xml</include>
+      <include>gra-tense-sping.xml</include>
     </x>
   </c>
   </x>

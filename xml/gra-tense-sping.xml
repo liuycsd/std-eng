@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+<r>gra-tense.xml</r>
+<x>
+    <s>
+    <h>现在进行时</h>
+    <r>sping</r>
+    <x>
+      <ss><h>Quiz</h><r>quiz</r>
+      <x>
+        <qdiv><e>
+	<i><x><e>
+	  do -> doing
+	  <i><x><q><t>have -> </t><k>having</k></q></x></i>
+	  <i><x><q><t>swim -> </t><k>swimming</k></q></x></i>
+	  <i><x><q><t>run -> </t><k>running</k></q></x></i>
+	  <i><x><q><t>lie -> </t><k>lying</k></q></x></i>
+	  <i><x><q><t>study -> </t><k>studying</k></q></x></i>
+	  <i><x><q><t>sing -> </t><k>singing</k></q></x></i>
+	  <i><x><q><t>shop -> </t><k>shopping</k></q></x></i>
+	  <i><x><q><t>stop -> </t><k>stopping</k></q></x></i>
+	  <i><x><q><t>get -> </t><k>getting</k></q></x></i>
+	  <i><x><q><t>sit -> </t><k>sitting</k></q></x></i>
+	  <i><x><q><t>dig -> </t><k>digging</k></q></x></i>
+	  <i><x><q><t>put -> </t><k>putting</k></q></x></i>
+	  <i><x><q><t>begin -> </t><k>beginning</k></q></x></i>
+	  <i><x><q><t>chat -> </t><k>chatting</k></q></x></i>
+	</e></x></i>
+        <i><x><q><t>Look! He ______(clean) his bike in the yard.</t><k>is cleaning</k></q></x></i>
+        <i><x><q><t>My friend ______(wait) for me. I have to leave.</t><k>is waiting</k></q></x></i>
+	<i><x><q><t>___ you ___(leave) tomorrow?</t><k>Are, leaving</k></q></x></i>
+	<i><x><q><t>Mother ______(总是想着) what she could do for others.</t><k>is always thinking of</k></q></x></i>
+	</e></qdiv>
+      </x>
+      </ss>
+    </x>
+    </s>
+</x>
+</document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+<r>spc-wrd-i.xml</r>
+  <x>
+    <s>
+    <h>Quiz2</h>
+    <r>quiz2</r>
+    <x>
+      <i><x><qdiv><e>
+        <i><x><q><t>--How often do you c___ your classroom? --Every day.</t><k>clean</k></q></x></i>
+	<i><x><q><t>Thanks for j___ today's Teenagers' World.</t><k>joining</k></q></x></i>
+	<i><x><q><t>Can I use your c___? I want to take a photo.</t><k>camera</k></q></x></i>
+	<i><x><q><t>In the north of China, it's very cold and often s___.</t><k>snows</k></q></x></i>
+	<i><x><q><t>There're many people on the b___. Some of them are swimming. Others are playing in the water.</t><k>beach</k></q></x></i>
+	<i><x><q><t>My mother is doing some s___ at the mall.</t><k>shopping</k></q></x></i>
+	<i><x><q><t>It'll be cloudy tomorrow and there will be h___ rain in the evening.</t><k>heavy</k></q></x></i>
+      </e></qdiv></x></i>
+      <i><x><qdiv><e>
+        <i><x><q><t>Many of us have a hew l___ after the new year.</t><k>look</k></q></x></i>
+	<i><x><q><t>John is the c___ of our school basketball team.</t><k>captain</k></q></x></i>
+	<i><x><q><t>--How often do you go to the movies? -- H___ ever.</t><k>Hardly</k></q></x></i>
+	<i><x><q><t>Because of the I___, we can find infomation in a short time.</t><k>Internet</k></q></x></i>
+	<i><x><q><t>The careful girl found out 10 d___ between the two pictures.</t><k>differences</k></q></x></i>
+	<i><x><q><t>Ed is of medium b___ and has short straight hair.</t><k>build</k></q></x></i>
+	<i><x><q><t>A___ for breakfast, I like to eat eggs and bread.</t><k>As</k></q></x></i>
+      </e></qdiv></x></i>
+    </x>
+    </s>
+  </x>
+</document>
