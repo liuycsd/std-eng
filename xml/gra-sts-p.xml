@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+  <h>祈使句</h>
+  <x>
+  <c>
+    <r>gra-sts-p.xml</r>
+    <h>祈使句</h>
+    <x>
+    <s>
+    <h>Quiz</h>
+    <r>1</r>
+    <x>
+      <qdiv><e>
+      <i><x><q><t>禁止在河中游泳。</t><k>Don't swim in the river. / No swimming is the river / You mustn't swim in the river.</k></q></x></i>
+      <i><x><q><t>--Don't be late again, Mike? --Sorry, I ___.</t><k>won't</k></q></x></i>
+      <i><x><q><t>If you hurry up, you won't miss the train. = If you ___ not ______, ______. = Hurry ______, ______.</t><k>do, hurry up, you will miss the train, up, or you'll miss the train.</k></q></x></i>
+      <i><x><q><t>Sorry for ___(be) late again. ___(be) here on time next time, or you'll be punished.</t><k>being, Be</k></q></x></i>
+      <i><t>Let's have a rest. / Let us have a rest.</t></i>
+      </e></qdiv>
+    </x>
+    </s>
+    </x>
+  </c>
+  </x>
+</document>

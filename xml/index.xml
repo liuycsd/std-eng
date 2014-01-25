@@ -10,6 +10,7 @@
     <include>b6bu15.xml</include>
     <include>b6bu6a.xml</include>
     <include>b7au15.xml</include>
+    <include>b7au6a.xml</include>
     <include>b8au34.xml</include>
     </x>
   </part>
@@ -20,6 +21,7 @@
     <include>gra-pron.xml</include>
     <include>gra-tense.xml</include>
     <include>gra-cls.xml</include>
+    <include>gra-sts-p.xml</include>
     </x>
   </part>
   <part>

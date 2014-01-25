@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+<r>gra-tense.xml</r>
+<x>
+    <s>
+    <h>一般过去时</h>
+    <r>spps</r>
+    <x>
+      <ss><h>Quiz</h><r>quiz</r>
+      <x>
+        <qdiv><e>
+	<i><t>动词过去式</t></i>
+	<i><x><q><t>I only ___(meet) her six months ago.</t><k>met</k></q></x></i>
+	<i><x><q><t>Sometimes it ___(be) hard, especially in winter when the weather was bad.</t><k>was</k></q></x></i>
+	<i><x><q><t>I ___(write) the wrong thing. Can I use your eraser?</t><k>wrote</k></q></x></i>
+	<i><x><q><t>--___ you ___(use) to take a bus to school? --Yes, but now I usually go to scchool on foot.</t><k>Did, use</k></q></x></i>
+        <i><x><q><t>So glad to see you back! How long ___ you ___(stay) there?</t><k>stay</k></q></x></i>
+	</e></qdiv>
+      </x>
+      </ss>
+    </x>
+    </s>
+</x>
+</document>
