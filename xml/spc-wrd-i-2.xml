@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+<r>spc-wrd-i.xml</r>
+  <x>
+    <s>
+    <h>Quiz3</h>
+    <r>quiz3</r>
+    <x>
+      <i><x><qdiv><e>
+      <i><x><q><t>He has a cold. He should take some m___ and have a rest.</t><k>medicine</k></q></x></i>
+      <i><x><q><t>If you feel s___ out, you can listen to quiet music.</t><k>stressed</k></q></x></i>
+      <i><x><q><t>Mid-Autumn Day is a Chinese t___ festival.</t><k>traditional</k></q></x></i>
+      <i><x><q><t>Shandong is one of the biggest provinces in the n___ of China.</t><k>north</k></q></x></i>
+      <i><x><q><t>Don't w___ about your little baby. I can help you.</t><k>worry</k></q></x></i>
+      </e></qdiv></x></i>
+      <i><x><qdiv><e>
+      <i><x><q><t>I don't think I can afford the e___ piano.</t><k>expensive</k></q></x></i>
+      <i><x><q><t>You have to p___ playing tennis more if you want to do it better.</t><k>practice</k></q></x></i>
+      <i><x><q><t>The food is very d___. I want some more.</t><k>delicious</k></q></x></i>
+      <i><x><q><t>The T-shirts are very c___. They are only 10 yuan each.</t><k>cheap</k></q></x></i>
+      <i><x><q><t>He knows the weather well because he listens to the weather r___ every day.</t><k>report</k></q></x></i>
+      </e></qdiv></x></i>
+      <i><x><qdiv><e>
+      <i><x><q><t>I can understand the article because there're few new w___ in it.</t><k>words</k></q></x></i>
+      <i><x><q><t>--Let's go to the mountains. --That's a good i___.</t><k>idea</k></q></x></i>
+      <i><x><q><t>"S___ me your license." the policeman said to the driver.</t><k>Show</k></q></x></i>
+      <i><x><q><t>He looked out of the window but he saw n___.</t><k>nothing</k></q></x></i>
+      <i><x><q><t>I have too m___ rules in my house.</t><k>many</k></q></x></i>
+      </e></qdiv></x></i>
+    </x>
+    </s>
+  </x>
+</document>

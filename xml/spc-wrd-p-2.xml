@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+<r>spc-wrd-p.xml</r>
+<x>
+    <s>
+    <h>Quiz3</h>
+    <r>quiz3</r>
+    <x>
+      <e>
+      <i><x><qdiv>
+      <p>Do you know Eskimos? Let me tell you something <span>a<q><k>about</k></q></span> their lives.</p>
+      <p>The Eskimos live near the North Pole(北极). <span>T<q><k>There</k></q></span> are only two seasons there: winter and <span>s<q><k>summer</k></q></span>. There are no <span>s<q><k>spring</k></q></span> <span>o<q><k>or</k></q></span> autumn there. In the winter nights are <span>l<q><k>long</k></q></span>. You can't see the <span>s<q><k>sun</k></q></span> for <span>m<q><k>more</k></q></span> than two months, even <span>a<q><k>at</k></q></span> noon. In the summer, <span>d<q><k>days</k></q></span> are long. For more than two months, the sun never goes <span>d<q><k>down</k></q></span> and there is no <span>n<q><k>night</k></q></span>.</p>
+      <p>The Eskimos have <span>w<q><k>warm</k></q></span> clothes. They make their clothes from skin(皮) of <span>a<q><k>anamals</k></q></span>.</p>
+      <p>Near the North Pole tree can't grow, for it's too <span>c<q><k>cold</k></q></span> there. The Eskimos have to make their houses <span>f<q><k>from</k></q></span> skins, stones or snow. When they go out in a storm(暴风雪) and can't get <span>b<q><k>back</k></q></span> home, they make <span>h<q><k>houses</k></q></span> of snow. They leave these <span>s<q><k>snow</k></q></span> houses <span>w<q><k>when</k></q></span> the storm is over.</p>
+      </qdiv></x></i>
+      </e>
+    </x>
+    </s>
+</x>
+</document>

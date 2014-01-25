@@ -9,6 +9,7 @@
   <x>
     <include>spc-wrd-p-0.xml</include>
     <include>spc-wrd-p-1.xml</include>
+    <include>spc-wrd-p-2.xml</include>
   </x>
   </c>
       <!--

@@ -68,10 +68,10 @@ var getans=function(obj){
 <xsl:template match="ahref"><a><xsl:attribute name="href"><xsl:value-of select="r"/></xsl:attribute><xsl:value-of select="h"/><xsl:apply-templates select="x"/></a></xsl:template>
 <xsl:template match="aname"><a><xsl:attribute name="name"><xsl:value-of select="r"/></xsl:attribute><xsl:value-of select="h"/><xsl:apply-templates select="x"/></a></xsl:template>
 <xsl:template match="q">
-<xsl:value-of select="t"/><xsl:copy-of select="hbox/*"/><xsl:apply-templates select="x"/><input type="text" size="6"/><span class="key" onclick="javascript:getans(this);"><xsl:attribute name="key"><xsl:value-of select="k"/></xsl:attribute>Answer:</span>
+<xsl:value-of select="t"/><xsl:copy-of select="hbox/*"/><xsl:apply-templates select="x"/><input type="text" size="6"/><span class="key" onclick="javascript:getans(this);"><xsl:attribute name="key"><xsl:value-of select="k"/></xsl:attribute>?</span>
 </xsl:template>
 <xsl:template match="b">
-<xsl:attribute name="key"><xsl:value-of select="k"/></xsl:attribute><xsl:value-of select="t"/><xsl:apply-templates select="x"/><div class="key" onclick="javascript:getans(this);">Answer:</div>
+<xsl:attribute name="key"><xsl:value-of select="k"/></xsl:attribute><xsl:value-of select="t"/><xsl:apply-templates select="x"/><div class="key" onclick="javascript:getans(this);">?</div>
 </xsl:template>
 <xsl:template match="qdiv">
 <div><xsl:apply-templates/><div class="key">Keys:<ol>
