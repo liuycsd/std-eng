@@ -8,8 +8,9 @@
 		<style><![CDATA[*{background-color:#ccc;}.key{color:#800;}div.key{outline:#800 dashed;margin-top:10em;}]]></style>
 		<script><![CDATA[
 var getans=function(obj){
-	var key=document.createTextNode(obj.getAttribute("key"));
-	obj.appendChild(key);
+	obj.innerHTML=obj.getAttribute("key");
+	try{obj.removeAttribute('onclick');
+	obj.removeAttribute('key');}catch(e){}
 }
 ]]></script>
 	</head>
