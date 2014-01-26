@@ -21,7 +21,9 @@
             <x>
             <d>
               <i><t>陈述句</t><desp><t>肯定、否定句</t></desp></i>
-              <i><t>疑问句</t><desp><t>一般、特殊、选择、反意</t></desp></i>
+              <i><t>疑问句</t><desp><x>一般、特殊、选择、<ahref><h>反意</h><r>gra-sts-r.xml</r></ahref></x></desp></i>
+	      <i><t>祈使句</t><desp><x><ahref><h>祈使句</h><r>gra-sts-p.xml</r></ahref></x></desp></i>
+	      <i><t>感叹句</t></i>
             </d>
             </x>
           </i>

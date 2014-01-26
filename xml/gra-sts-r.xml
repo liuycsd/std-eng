@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+  <h>反意疑问句</h>
+  <x>
+  <c>
+    <r>gra-sts-r.xml</r>
+    <h>反意疑问句</h>
+    <x>
+    <s>
+    <h>Quiz</h>
+    <r>1</r>
+    <x>
+      <qdiv><e>
+      <i><x><q><t>He is a student, ___ ___?</t><k>isnt't he</k></q></x></i>
+      <i><x><q><t>It is unfair, ___ ___?</t><k>isn't it</k></q></x></i>
+      <i><x><q><t>You dislike playing basketball, ___ ___?</t><k>don't you</k></q></x></i>
+      <i><x><q><t>Few people attend the meeting, ___ ___?</t><k>did they</k></q></x></i>
+      <i><x><q><t>Mr Li may ne in the office, ___ ___?</t><k>isn't he</k></q></x></i>
+      <i><x><q><t>He said that he was busy, ___ ___?</t><k>didn't he</k></q></x></i>
+      <i><x><q><t>I don't believe he cares for clothes, ___ ___?</t><k>does he</k></q></x></i>
+      <i><x><q><t>Let's have a rest, ___ ___?</t><k>shall we</k></q></x></i>
+      <i><x><q><t>Let us have a rest, ___ ___?</t><k>will you</k></q></x></i>
+      <i><x><q><t>I'm late, ___ ___?</t><k>aren't I</k></q></x></i>
+      <i><x><q><t>--You aren't a student, are you? --______. I've been studying in NO.10 middle school.</t><k>Yes, I am.</k></q></x></i>
+      </e></qdiv>
+    </x>
+    </s>
+    </x>
+  </c>
+  </x>
+</document>
