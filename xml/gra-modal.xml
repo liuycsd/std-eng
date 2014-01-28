@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+  <h>情态动词</h>
+  <x>
+  <c>
+    <r>gra-modal.xml</r>
+    <h>情态动词</h>
+    <x>
+    <s>
+    <h>Quiz</h>
+    <r>1</r>
+    <x>
+      <qdiv><e>
+      <i><x><q><t>Tom can swim = Tom ___ ___ ___ swim.</t><k>is able to</k></q></x></i>
+      <i><x><q><t>___ you give me a hand?</t><k>Could</k></q></x></i>
+      <i><x><q><t>___ the news be true?</t><k>Can</k></q></x></i>
+      <i><x><q><t>The boy ___ be Jim. He's much taller.</t><k>can't</k></q></x></i>
+      <i><x><q><t>Maybe Tony knows the way. = Tony ___ ___ the way.</t><k>may know</k></q></x></i>
+      <i><x><q><t>___ I come in?</t><k>May</k></q></x></i>
+      <i><x><q><t>___ you be happy.</t><k>May</k></q></x></i>
+      <i><x><q><t>We ___ tell the truth to our parents.(必须)</t><k>must</k></q></x></i>
+      <i><x><q><t>Lisa ___ be at home.(一定)</t><k>must</k></q></x></i>
+      <i><x><q><t>They ___ ___ ___(see) the movie.(一定看过)</t><k>must have seen</k></q></x></i>
+      <i><x><q><t>___ we ask the teacher for help?</t><k>Shall</k></q></x></i>
+      <i><x><q><t>Students ___ have long hair.(不应该)</t><k>shouldn't</k></q></x></i>
+      <i><x><q><t>___ you please take out the trash?</t><k>Will/Would</k></q></x></i>
+      <i><x><q><t>Your parents ___ try their best to help you.(愿意)</t><k>will</k></q></x></i>
+      <i><x><q><t>--May I swim in the river? --No, you ___.</t><k>mustn't</k></q></x></i>
+      </e></qdiv>
+    </x>
+    </s>
+    </x>
+  </c>
+  </x>
+</document>

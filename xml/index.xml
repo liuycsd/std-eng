@@ -12,6 +12,7 @@
     <include>b7au15.xml</include>
     <include>b7au6a.xml</include>
     <include>b7bu1a.xml</include>
+    <include>b8au1a.xml</include>
     </x>
   </part>
   <part>
@@ -23,6 +24,8 @@
     <include>gra-cls.xml</include>
     <include>gra-sts-p.xml</include>
     <include>gra-sts-r.xml</include>
+    <include>gra-modal.xml</include>
+    <include>gra-cls-q.xml</include>
     </x>
   </part>
   <part>

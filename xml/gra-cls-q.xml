@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+  <h>直接引语和间接引语</h>
+  <x>
+  <c>
+    <r>gra-cls-q.xml</r>
+    <h>直接引语和间接引语</h>
+    <x>
+    <s>
+    <h>Quiz</h>
+    <r>1</r>
+    <x>
+      <qdiv>
+      <p>变为间接引语</p>
+      <p><q><t>Dick said to me, "I'm sorry to be late and keep you waiting." -> Dick said to me that ______.</t><k>he was sorry to be late and kept me waiting</k></q></p>
+      <p><q><t>The man said to Mary, "Would you mind my smoking here?" -> The man asked Mary ______.</t><k>if/whether she would would mind his smoking there</k></q></p>
+      <p><q><t>The woman asked Emily, "How do you get thinner like this?" -> The woman asked Emily ______.</t><k>how she got thinner like that</k></q></p>
+      <p><q><t>The father said to his son, "Remember to give the bird food twice a day." -> The father said to his son ______.</t><k>to remember to give the bird food twice a day</k></q></p>
+      <p><q><t>Mrs Red said to her daughter, "Don't stay out after ten in the evening." -> Mrs Red told her daughter ______.</t><k>not to stay out after ten in the evening</k></q></p>
+      <p><q><t>Nancy asked me, "What are you going to do tomorrow?" -> nancy asked me ______.</t><k>what I was going to do the next day</k></q></p>
+      <p><q><t>"The earth moves around the sun," the teacher told me. -> The teacher told me that ______.</t><k>the earth moves around the sun</k></q></p>
+      </qdiv>
+    </x>
+    </s>
+    </x>
+  </c>
+  </x>
+</document>

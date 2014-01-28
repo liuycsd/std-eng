@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+<r>gra-tense.xml</r>
+<x>
+    <s>
+    <h>过去进行时</h>
+    <r>psing</r>
+    <x>
+      <ss><h>Quiz</h><r>quiz</r>
+      <x>
+        <qdiv><e>
+	<i><x><q><t>昨天在公园散步的时候，我的笔掉到地上了。My pen ______(drop) on the ground when I ______(walk) in the park.</t><k>dropped, was walking</k></q></x></i>
+	<i><x><q><t>学生们在看书，而老师在批改他们的家庭作业。The students ______(read) while the teacher ______(grade) their homework.</t><k>were reading, was grading</k></q></x></i>
+	<i><x><q><t>The students ______(read) aloud when the teacher came in.</t><k>were reading</k></q></x></i>
+	</e></qdiv>
+      </x>
+      </ss>
+    </x>
+    </s>
+</x>
+</document>

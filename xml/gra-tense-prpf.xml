@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="text.xsl"?>
+<document>
+<r>gra-tense.xml</r>
+<x>
+    <s>
+    <h>现在完成(进行)时</h>
+    <r>prpf</r>
+    <x>
+      <ss><h>Quiz</h><r>quiz</r>
+      <x>
+        <qdiv><e>
+	<i><x><q><t>You don't have to wash the windows. I ______(wash) them three times.</t><k>have washed</k></q></x></i>
+	<i><x><q><t>My father has ___ to Hainan. He will stay there for two weeks. He has ___ there three times.(been/gone)</t><k>gone, been</k></q></x></i>
+	<i><x><q><t>It ______(rain) non-stop since last night. I wonder when it will stop.</t><k>has been raining</k></q></x></i>
+	<i><t>非延续性动词 / 延续性动词</t></i>
+	</e></qdiv>
+      </x>
+      </ss>
+    </x>
+    </s>
+</x>
+</document>
